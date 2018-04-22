@@ -1,2 +1,4 @@
 # blog-monzo-expenses
-Monzo csv to expenses
+Support for the blogpost on Monzo Expenses
+
+For example usage see `Run.ps1`.
